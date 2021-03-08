@@ -17,7 +17,7 @@ header{
     font-family: Verdana, Geneva, sans-serif;
 }
 
-header #sig{
+header #sistema_integrado{
     grid-column: 1/8;
     justify-self: center;
     align-self: start;
